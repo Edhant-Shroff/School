@@ -1,0 +1,13 @@
+marquee {
+    background-color: aqua;
+    font-size: 18px;
+    width=100%;
+    direction=left;
+    height=5%;
+}
+
+#school {
+    width: 900px;
+    height: 600px;
+    text-align: center;
+}
