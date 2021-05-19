@@ -11,3 +11,17 @@ marquee {
     height: 600px;
     text-align: center;
 }
+
+#map {
+    float: left;
+}
+
+#details {
+    float: right;
+
+}
+
+#image {
+    width: 60%;
+    height: 40%;
+}
